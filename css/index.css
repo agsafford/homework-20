@@ -7,9 +7,9 @@
     }
     
     button {
-        background-color: #778899 !important; 
+        background-color: #778899; 
         border: none;
-        color: white;
+        color: #ffffff;
         padding: 15px 32px;
         text-align: center;
         text-decoration: none;
@@ -18,14 +18,12 @@
         border-radius: 5px;
         margin: auto;
         display:flex;
-    
       }
     
     .card1 {
         padding-bottom: 20px;
         padding-right: 10px;
         padding-top: 50px;
-    
     }
     
     .card2 {
@@ -41,7 +39,6 @@
         padding-left: 10px;
         padding-bottom: 300px;
     }
-    
     
     .card-title {
         text-align: center;
