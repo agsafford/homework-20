@@ -1,0 +1,48 @@
+.jumbotron {
+    text-align: center;
+    }
+    
+    .logo {
+        width: 150px;
+    }
+    
+    button {
+        background-color: #778899 !important; 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 5px;
+        margin: auto;
+        display:flex;
+    
+      }
+    
+    .card1 {
+        padding-bottom: 20px;
+        padding-right: 10px;
+        padding-top: 50px;
+    
+    }
+    
+    .card2 {
+        padding-left: 10px;
+        padding-top: 200px;
+    }
+    
+    .card4 {
+        padding-right: 10px;
+        padding-top: 200px;
+    }
+    .card5 {
+        padding-left: 10px;
+        padding-bottom: 300px;
+    }
+    
+    
+    .card-title {
+        text-align: center;
+    }
